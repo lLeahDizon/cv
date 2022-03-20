@@ -5,7 +5,7 @@ cd dist
 git init
 git add .
 git commit -m 'init' &&
-git remote add origin git@gitee.com:LeahDizon/cv.git &&
+git remote add origin git@github.com:lLeahDizon/cv-website.git &&
 git branch -M main &&
 git push -u origin main -f &&
 cd -
